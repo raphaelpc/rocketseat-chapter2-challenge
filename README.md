@@ -15,3 +15,27 @@ Essa será uma aplicação onde o seu principal objetivo é criar um hook de 
 - Entre outros.
 
 (Solução do desafio do segundo capítulo do curso Ignite da RocketSeat. 🚀)
+
+## Available scripts
+
+### `yarn build`
+
+Build the application to be deployed in production.
+
+### `yarn start`
+
+Runs the application in development mode.
+
+### `yarn test`
+
+Runs the application's tests.
+
+### `yarn server`
+
+Runs the JSON Server:
+
+"Assim como utilizamos o MirageJS no módulo 2 para simular uma API com os dados das transações da aplicação dt.money, vamos utilizar o JSON Server para simular uma API que possui as informações dos produtos e do estoque."
+
+## Before running
+
+Before running or building the application (right after downloading this repository), run command "yarn" so that all dependencies are downloaded by the Yarn package manager.
